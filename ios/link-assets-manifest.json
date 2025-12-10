@@ -1,0 +1,37 @@
+{
+  "migIndex": 1,
+  "data": [
+    {
+      "path": "FoldenUinnerFruitStormSrc/FoldenUinnerFruitStormAssets/FoldenUinnerFruitStormFonts/LondrinaSolid-Black.ttf",
+      "sha1": "d50fb384e6a9816b7026723b75c9b989f8deacae"
+    },
+    {
+      "path": "FoldenUinnerFruitStormSrc/FoldenUinnerFruitStormAssets/FoldenUinnerFruitStormFonts/LondrinaSolid-Light.ttf",
+      "sha1": "24a7061226ccbdf99d2995b18b3e854853e67f95"
+    },
+    {
+      "path": "FoldenUinnerFruitStormSrc/FoldenUinnerFruitStormAssets/FoldenUinnerFruitStormFonts/LondrinaSolid-Regular.ttf",
+      "sha1": "3f8b03eb2732f1b618b7339a32f5f7e1f6897756"
+    },
+    {
+      "path": "FoldenUinnerFruitStormSrc/FoldenUinnerFruitStormAssets/FoldenUinnerFruitStormFonts/Manrope-SemiBold.ttf",
+      "sha1": "f7a023cd6c102b2ffa8bf729579552445970d62d"
+    },
+    {
+      "path": "FoldenUinnerFruitStormSrc/FoldenUinnerFruitStormAssets/FoldenUinnerFruitStormFonts/Roboto-Bold.ttf",
+      "sha1": "508c35dee818addce6cc6d1fb6e42f039da5a7cf"
+    },
+    {
+      "path": "FoldenUinnerFruitStormSrc/FoldenUinnerFruitStormAssets/FoldenUinnerFruitStormFonts/SFProText-Medium.ttf",
+      "sha1": "3b8df618cd23e83843b16a8a32de1ddc9de44df4"
+    },
+    {
+      "path": "FoldenUinnerFruitStormSrc/FoldenUinnerFruitStormAssets/FoldenUinnerFruitStormFonts/SFProText-Regular.ttf",
+      "sha1": "b4893462f2289df6978f9462a63db9e64bcc9342"
+    },
+    {
+      "path": "FoldenUinnerFruitStormSrc/FoldenUinnerFruitStormAssets/FoldenUinnerFruitStormFonts/SFProText-Semibold.ttf",
+      "sha1": "9560ae412d73c7c9af72333db50464b4e597b0f9"
+    }
+  ]
+}
